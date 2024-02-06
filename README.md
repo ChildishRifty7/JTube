@@ -10,3 +10,5 @@ MIDP 2.0 সমর্থিত জাভা ডিভাইসের জন্�
 
 JTube Lite:<br>
 https://github.com/shinovon/JTubeLite <i>(No longer supported)</i>
+
+**Bengali locale translated by ChildishRifty7.**
