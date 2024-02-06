@@ -1,3 +1,6 @@
+# FORKED FROM SHINOVON'S REPOSITORY TO UPDATE THE LOCALE.
+Here's the original description below. Thanks for reading.
+
 # JTube
 Youtube client based on Invidious API for Java devices with MIDP 2.0 support
 
